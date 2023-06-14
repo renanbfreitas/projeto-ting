@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/static/v1?label=Objetivo&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
 <p></p>
 
-No projeto Algorithms foi aplicado lógica na capacidade de resolução de problemas, interpretação, resolução e otimização de códigos, de acordo com a complexidade de cada item, além de testes.
+No projeto TING foi aplicado um programa que simule um algoritmo de indexação de documentos similar ao do Google. 
+
+Seu programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
 
 ---   
 <div align="center">
